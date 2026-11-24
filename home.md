@@ -26,11 +26,9 @@ This version is published with Docsify-This, from the same Markdown files.
 
 Here's an example guide to explore and build on: **Open Education Essentials** – a short, practical guide to understanding and applying open education principles in your teaching practice.
 
-<div class="card-list-sections">
+<div class="card-list-rows">
 
 <div class="card">
-
-![](what-is-open-education/kevin-grieve-B8ciJlFvaBQ-unsplash.jpg ":no-zoom")
 
 Section 1
 
@@ -42,8 +40,6 @@ An introduction to open education principles, the 5Rs framework, and why content
 
 <div class="card">
 
-![](tools-for-open-course-design/vitaly-gariev-tnikNZcsQjk-unsplash.jpg ":no-zoom")
-
 Section 2
 
 ## [Tools for Open Course Design](tools-for-open-course-design/README.md) <!-- {docsify-ignore} -->
@@ -54,8 +50,6 @@ Practical tools for creating Git-backed, LMS-embeddable open course content – 
 
 <div class="card">
 
-![](getting-started-with-open-authoring/natalia-y-YqeS71-42c4-unsplash.jpg ":no-zoom")
-
 Section 3
 
 ## [Getting Started with Open Authoring](getting-started-with-open-authoring/README.md) <!-- {docsify-ignore} -->
@@ -65,8 +59,6 @@ How to invite readers to suggest edits, view source, and contribute to your open
 </div>
 
 <div class="card">
-
-![](growing-your-guide/unsplash-sidney-perry.jpg ":no-zoom")
 
 Section 4
 
@@ -85,7 +77,7 @@ Blogging alongside your guide, and knowing when to move to Helios Open Reader.
 This guide covers the foundational ideas, practical tools, and real-world examples you need to get started with open educational resources (OER) and open course design.
 
 > [!NOTE]
-> This guide's home page shows a card for each section with the `card-list-sections` card list, and the guide's `_sidebar.md` sets its reading order and its Previous/Next buttons. The same guide is also the example in [Grav Open Publishing Space](https://github.com/hibbitts-design/grav-skeleton-open-publishing-space) and [Grav Helios Open Reader](https://github.com/hibbitts-design/grav-skeleton-helios-open-reader), showing how content can move between platforms.
+> This guide's home page shows a card for each section with the `card-list-rows` card list, and the guide's `_sidebar.md` sets its reading order and its Previous/Next buttons. The same guide is also the example in [Grav Open Publishing Space](https://github.com/hibbitts-design/grav-skeleton-open-publishing-space) and [Grav Helios Open Reader](https://github.com/hibbitts-design/grav-skeleton-helios-open-reader), showing how content can move between platforms.
 
 Want to learn more? Read this template's [Read Me](https://github.com/hibbitts-design/docsify-this-guide-site/blob/main/README.md) for how it's put together, including how to add sections and pages.
 
